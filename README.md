@@ -1,4 +1,4 @@
-#PORTFOLIO
+# PORTFOLIO
 
 Hello, This project showcases a simple portfolio landing page. It's purpose is to demonstrate basic HTML and CSS skills for web development basics.
 
